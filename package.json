@@ -1,0 +1,21 @@
+{
+  "name": "threejs-solar-system",
+  "version": "1.0.0",
+  "description": "3D Model of our Solar System using mainly three.js library",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server . -p 8080 -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelopes07/threejs-solar-system.git"
+  },
+  "author": "André Lopes",
+  "license": "ISC",
+  "homepage": "https://github.com/andrelopes07/threejs-solar-system#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
